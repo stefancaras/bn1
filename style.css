@@ -1,0 +1,69 @@
+ul {
+  list-style-type: none;
+  padding: 0 !important;
+}
+.my-container,
+.my-container-films {
+  display: flex;
+  margin: 4vh 2vw;
+}
+.my-card {
+  position: relative;
+  height: 80vh;
+  background-size: cover;
+  background-position: center center;
+  border-radius: 4rem;
+  margin: 0 0.5rem;
+  flex: 1;
+  transition: flex 1s ease-in;
+  cursor: pointer;
+}
+.my-card h1 {
+  position: absolute;
+  visibility: hidden;
+  font-size: 1px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 1rem;
+  padding: 0.5rem;
+  top: 2rem;
+  left: 50%;
+  transform: translate(-50%);
+  transition: font-size 1.5s;
+}
+.my-card.active {
+  flex: 10;
+  cursor: default;
+}
+.my-card.active h1 {
+  visibility: visible;
+  font-size: 2rem;
+}
+.index-container {
+  min-height: 15rem;
+  height: 84vh;
+  margin-top: 5vh;
+}
+.h-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80vw;
+  height: 30%;
+  background-position: center 30%;
+  border-radius: 14vh;
+  margin: 2vh auto;
+}
+.h-card a {
+  font-size: 2rem;
+  text-decoration: none;
+  color: white !important;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 1rem;
+  padding: 0.5rem;
+}
+.h-card a:hover {
+  color: black !important;
+  background-color: rgba(255, 255, 255, 0.7);
+  cursor: pointer;
+}

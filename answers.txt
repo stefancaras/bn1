@@ -1,0 +1,85 @@
+1. What do HTML and CSS stand for?
+HTML stands for HyperText Markup Language, while CSS stands for Cascading Style Sheets.
+
+2. Would you rather use HTML or CSS, for putting paragraphs of text on a webpage?
+HTML would be the better choice for putting paragraphs of text on a webpage.
+
+3. Would you rather use HTML or CSS, to change the font and background color of a
+button?
+CSS would be the better choice for changing the font and background color of a button.
+
+4. What is an HTML tag?
+An HTML tag is a keyword or phrase surrounded by angle brackets that tells the web browser how to display the content.
+
+5. What are the three parts of an HTML element? (image from paragraph)
+The three parts of an HTML element are the opening tag, the content, and the closing tag.
+
+6. What is the purpose of the doctype declaration?
+The doctype declaration tells the web browser which version of HTML is being used in the document.
+
+7. What is the HTML element?
+The HTML element is the root element of an HTML document.
+
+8. What is the purpose of the head element?
+The head element contains metadata about the document, such as the title and links to stylesheets.
+
+9. What is the purpose of the body element?
+The body element contains the content that will be displayed on the webpage.
+
+10. How do you create a paragraph in HTML?
+To create a paragraph in HTML, you use the <p> element.
+
+11. How do you create a heading in HTML?
+To create a heading in HTML, you use the <h1> to <h6> elements.
+
+12. How many different levels of headings are there and what is the difference between
+them?
+There are six different levels of headings, ranging from <h1> (most important) to <h6> (least important). The difference between them is the font size and hierarchy of importance.
+
+13. What element should you use to make text bold and important?
+The <strong> element should be used to make text bold and important.
+
+14. What element should you use to make text italicized to add emphasis to it?
+The <em> element should be used to make text italicized to add emphasis to it.
+
+15. What relationship does an element have with any nested elements within it?
+An element is the parent of any nested elements within it.
+
+16. What relationship do two elements have if they are at the same level of nesting?
+Two elements that are at the same level of nesting are siblings.
+
+17. How do you create HTML comments?
+To create HTML comments, you use <!-- comment goes here -->.
+
+18. What HTML tag is used to create an unordered list?
+The <ul> tag is used to create an unordered list.
+
+19. What HTML tag is used to create an ordered list?
+The <ol> tag is used to create an ordered list.
+
+20. What HTML tag is used to create list items within both unordered and ordered lists?
+The <li> tag is used to create list items within both unordered and ordered lists.
+
+21. What element is used to create a link?
+The <a> tag is used to create a link.
+
+22. What is an attribute?
+An attribute provides additional information about an HTML element and is used in the opening tag of the element.
+
+23. What attribute tells links where to go?
+The href attribute tells links where to go.
+
+24. What is the difference between an absolute and relative link?
+An absolute link specifies the complete web address of the destination, while a relative link specifies the path to the destination from the current page.
+
+25. Which element is used to display an image?
+The <img> tag is used to display an image.
+
+26. What two attributes do images always need to have?
+Images always need to have the src attribute (which specifies the image file to display) and the alt attribute (which provides alternative text for screen readers and in case the image cannot be displayed).
+
+27. How do you access a parent directory in a file path?
+To access a parent directory in a file path, you use "../" before the folder name.
+
+28. What are the four main image formats that you can use for images on the web?
+The four main image formats that can be used for images on the web are JPEG, PNG, GIF, and SVG.
